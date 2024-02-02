@@ -1,4 +1,7 @@
 
+const cell =document.querySelectorAll('.cell');
+
+
 let currentMarker = "X";
 let gameOver = false;
 
